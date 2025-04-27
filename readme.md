@@ -1,48 +1,97 @@
-![image](https://github.com/user-attachments/assets/7ed54cec-a7e7-4c06-9298-670b43b6ed74)
+# Glitch.house - Take Home Assignment
 
-# glitch.house - take home assignment
+This repository contains my implementation of the Glitch.house React Native assignment.
 
-This assignment requires you to build a search bar component for a React Native application using Expo. The search bar should provide live suggestions as the user types, and navigating to a dedicated search results page when a suggestion is selected.
+## ✅ Task Completed:
 
-## Requirements
+- Built a **Search Bar** UI following the provided Figma design.
+- Implemented **Live Suggestions** with:
+  - Thumbnail image
+  - Title text
+- Navigated to a dedicated **Search Results** page when a suggestion is tapped.
+- Displayed **Search Result Cards** with title and placeholders for view/like counts.
+- Used **fake/dummy data** for now.
 
--   **Search Bar UI**: Implement a basic input field where users can type their search queries.
--   **Live Suggestions**: Display a dropdown list of matching suggestions as the user types. Each suggestion should include:
-    -   A small thumbnail image.
-    -   The title of the result.
--   **On Click**: When a user taps on a suggestion, navigate them to a "Search Results" page.
--   **Search Results Page**: Create a separate page to display a list of all results that match the search query. This page should show cards for each result, including the title and potentially view/like counts.
+## 🎨 Design Match:
 
-**Bonus:** Feel free to add interactions and transitions to enhance the user experience.
+- The UI is made **identical to the provided Figma designs**.
+- Correct fonts and styling as per the assignment guidelines.
 
-## Design Reference
+## 🎥 Demo Video:
 
-You can find the design details in the Figma file here:
-[Figma Design Link](https://www.figma.com/design/GlrzRFGeATFEjaHNmMwMov/glitch.house-%3C%3E-react-native-assignment?node-id=0-1&p=f&t=dXvBM9WhLFvSBMw1-11)
+You can view the working demo here:
 
-## Getting Started
+- **Working Demo:** [Click here to view the demo](https://www.loom.com/share/0b61c7e2055e48b58ee3d1e4b6af3fe6)  
+  (This video demonstrates the **live suggestions** and the **Search Results Page** in action.)
 
-You have been provided with a base Expo application. This template includes the necessary setup and, importantly, the correct fonts matching the Figma designs are available within this project.
+- **Project Explanation Video:** [Click here to view the explanation](https://www.loom.com/share/a149a1f7c4664645a3a2d4c77656e4d7)  
+  (This video explains the project, its features, and future improvements like **AI-based suggestions**.)
 
-## How to Submit
+## 📂 Technologies Used:
 
-1.  Ensure your project is in a GitHub repository.
-2.  Create a **screen recording** demonstrating your implementation.
-3.  **Submit by mailing to hello@glitch.house or via Internshala's chat**, including the screen recording and the GitHub repository link.
-
-## Deadline
-
-We expect you to complete the project within **2 days** from the start date.
-
----
-
-## Contact
-
-If you have any questions or need clarification, feel free to reach out:
--   Email: hello@glitch.house
--   Number: +91-8838506252
+- React Native (Expo)
+- React Navigation
+- React Native Animations (for a better UX)
+- Dummy data (future ready for API integration)
 
 ---
 
-All the best ;)
-- Glitch.house
+## 🚀 Installation & Running the Project
+
+Follow these steps to set up and run the project locally:
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/Dhruv942/Glitch-House.git
+```
+
+Move into the project directory:
+
+```bash
+cd Glitch-House
+```
+
+### 2. Install Dependencies
+
+Install all necessary npm packages:
+
+```bash
+npm install
+```
+
+> Make sure you have **Node.js** and **npm** installed on your system.
+
+### 3. Start the Expo Project
+
+Run the following command to start the Expo server:
+
+```bash
+npx expo start
+```
+
+This will open up the Expo Developer Tools in your browser.
+
+### 4. Run on Your Device or Emulator
+
+- Scan the QR code (shown after running the server) using the **Expo Go** app on your phone.
+- OR run directly on an Android/iOS simulator from the Expo Developer Tools.
+
+---
+
+## ⚡ Note:
+
+- The project is currently using **dummy data** for search suggestions and results.
+- Real API integration can be easily added in the future.
+- The UI strictly follows the given Figma designs.
+
+---
+
+## 📧 Contact
+
+For any queries regarding this project:
+- Email: dhruvvpatel1010@gmail.com
+- Mobile Number:8320838017
+- GitHub: [Dhruv942](https://github.com/Dhruv942)
+
+---
