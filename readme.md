@@ -84,6 +84,7 @@ This will open up the Expo Developer Tools in your browser.
 - The project is currently using **dummy data** for search suggestions and results.
 - Real API integration can be easily added in the future.
 - The UI strictly follows the given Figma designs.
+- Future Improvements: In the future, I plan to integrate AI-based suggestions for smarter and more personalized search results. This will make the search experience even better by providing context-aware recommendations tailored to the user's preferences.
 
 ---
 
