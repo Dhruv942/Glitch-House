@@ -11,7 +11,7 @@ This repository contains my implementation of the Glitch.house React Native assi
 - Navigated to a dedicated **Search Results** page when a suggestion is tapped.
 - Displayed **Search Result Cards** with title and placeholders for view/like counts.
 - Used **fake/dummy data** for now.
-
+- Added **Auto Theme Detection** that automatically switches between **Dark Mode** and **Light Mode** based on system preferences.
 ## 🎨 Design Match:
 
 - The UI is made **identical to the provided Figma designs**.
@@ -21,7 +21,7 @@ This repository contains my implementation of the Glitch.house React Native assi
 
 You can view the working demo here:
 
-- **Working Demo:** [Click here to view the demo](https://www.loom.com/share/0b61c7e2055e48b58ee3d1e4b6af3fe6)  
+- **Working Demo:** [Click here to view the demo](https://www.loom.com/share/0fb5bb1ec3fe41baa1e3b3176fc48552)  
   (This video demonstrates the **live suggestions** and the **Search Results Page** in action.)
 
 - **Project Explanation Video:** [Click here to view the explanation](https://www.loom.com/share/a149a1f7c4664645a3a2d4c77656e4d7)  
